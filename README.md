@@ -44,12 +44,13 @@ g++ "Banking App.cpp" -o BankingApp
 
 ```plaintext
 Banking-App/
-├── Banking App.cpp           # Main application source
-├── Banking App.sln           # Visual Studio solution
-├── Banking App.vcxproj       # Project definition
-├── Banking App.vcxproj.filters
-├── README.md                 # Documentation
-└── LICENSE                   # License information
+├── .gitignore               # Ignore build artifacts and user-specific files
+├── Banking App.cpp          # Main application source
+├── Banking App.sln          # Visual Studio solution
+├── Banking App.vcxproj      # Project definition
+├── Banking App.vcxproj.filters  # Visual Studio filters (file organization)
+├── LICENSE                  # License file (MIT + note in README)
+└── README.md                # Project documentation
 ```
 
 ## 🎯 Learning Outcomes  
