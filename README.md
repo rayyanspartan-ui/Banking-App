@@ -58,4 +58,11 @@ This project was more than an exercise in syntax — it helped me practice:
 - Applying OOP principles in C++  
 - Managing program state with file persistence  
 - Thinking through structure and maintainability  
+## 📜 License  
+This project is licensed under the [MIT License](LICENSE).  
+
+⚠️ **Important Note**:  
+This repository was created as a **student portfolio project** for educational and demonstrative purposes.  
+While it is released under the MIT License, it is **not intended for direct reuse in production systems**.  
+If you reference or adapt this code, please treat it as a learning resource and apply significant modifications before using it in real-world applications.
 
